@@ -1,4 +1,4 @@
-# Point Class Example
+# Actividad 6
 ## TC1033 Pensamiento computacional orientado a objetos
 
 Act 6 is an activity for the course TC1033.302
