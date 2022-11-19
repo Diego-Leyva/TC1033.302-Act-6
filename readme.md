@@ -9,7 +9,7 @@ For each Triangle object, it'll have three vertex each being a Point object and 
 
 ## How to run
 
-Point Class requires [C++] v17 and makefile to run.
+Rquired [C++] v17 and makefile to run.
 
 ```sh
 $ make
