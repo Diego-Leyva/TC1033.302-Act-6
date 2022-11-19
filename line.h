@@ -6,6 +6,7 @@ class line {
     point v1, v2;
 
     public:
+        line();
         line(point v1, point v2);
         
         point get_v1();
