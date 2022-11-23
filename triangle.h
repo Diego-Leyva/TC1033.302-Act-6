@@ -1,5 +1,4 @@
-#ifndef TRIANGLE_H
-#define TRIANGLE_H
+#pragma once
 #include "point.h"
 #include "line.h"
 
@@ -22,5 +21,3 @@ class triangle {
         double perimeter();
         double area();
 };
-
-#endif

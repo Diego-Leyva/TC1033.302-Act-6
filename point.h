@@ -1,5 +1,4 @@
-#ifndef POINT_H
-#define POINT_H
+#pragma once
 
 class point {
     double x, y;
@@ -16,5 +15,3 @@ class point {
 
         double distance(point p);
 };
-
-#endif
